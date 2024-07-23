@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KudosePOC.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <Label Text="Home"
+               FontSize="20"
+               HorizontalOptions="Fill"
+               VerticalOptions="Start"
+               HorizontalTextAlignment="Center"
+               Padding="10"
+               FontAttributes="Bold"
+               BackgroundColor="LightGray"
+               />
+
+    </StackLayout>
+
+</ContentPage>
